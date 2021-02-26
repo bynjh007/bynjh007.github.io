@@ -23,7 +23,7 @@ This will make App/{folder name} folder in your dropbox.
 ./dropbox_uploader.sh upload /path/raw/* /
 ```
 
-At begining, I got an error to upload the large file (token error), I removed the con
+- At begining, I got an error to upload the large file (token error), I removed the con
 
 6. As file size is large, it will be chunked into multiple pieces.
 
