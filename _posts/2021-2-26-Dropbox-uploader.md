@@ -33,5 +33,5 @@ This will make App/{folder name} folder in your dropbox.
 Then, good luck!
 
 
-![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG){: style="float: left"}
+![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG){: style="float: right"}
 from Nigardsbreen, Norway
