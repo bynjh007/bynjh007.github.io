@@ -14,16 +14,15 @@ This is the way how I uploaded the large files (~40 files, ~200G) in the remote 
 4. (optional) If you want to unsynchronize the folder where you want to upload the files, you can use 'Selective Sync' function in 'Preference' menu from Desktop Dropbox.<br/>
 
 - Currently, the default folder 'App' is unsynchronized by this setting.
-- Also, I faced error when I initially set up the configuration, but it worked at some point without any change in the trials.<br/><br/>
+- Also, I faced error when I initially set up the configuration, but it worked at some point without any change in the trials.<br/>
 
 5. Then you can upload the files to the path. The data will be uploaded in the default path, 'App/{folder name}'.
 ```console
 ./dropbox_uploader.sh upload /path/raw/* /
 ```
- - At begining, I got an error to upload the large file (token error), I removed the previous configuration and reset new one.<br/><br/>
+ - At begining, I got an error to upload the large file (token error), I removed the previous configuration and reset new one.<br/>
 
-
-6. As file size is large, it will be chunked into multiple pieces.<br/><br/>
+6. As file size is large, it will be chunked into multiple pieces.<br/>
 
 Then, good luck!<br/><br/>
 
