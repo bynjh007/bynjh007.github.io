@@ -17,6 +17,7 @@ This will make App/{folder name} folder in your dropbox.
 - Currently, the default folder 'App' is unsynchronized by this setting.
 - Also, I faced error when I initially set up the configuration, but it worked at some point without any change in the trials.
 
+
 5. Then you can upload the files to the path. The data will be uploaded in the default path ("App/{folder name}").
 ```
 ./dropbox_uploader.sh upload /path/raw/* /
@@ -29,7 +30,7 @@ At begining, I got an error to upload the large file (token error), I removed th
 
 Then, good luck!
 
-![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG, , description = "Norway")
+![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG, description = "Norway")
 
 
 
