@@ -26,11 +26,8 @@ This will make App/{folder name} folder in your dropbox.
 
 
 6. As file size is large, it will be chunked into multiple pieces.
-
-
-
-
-
+\
+\
 Then, good luck!
 
 
