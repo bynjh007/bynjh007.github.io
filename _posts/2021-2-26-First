@@ -3,5 +3,8 @@ layout: post
 title: First posting
 ---
 
-This is a just test posting. No worries.
+No worries!
 
+![_config.yml]({{ site.baseurl }}/images/https://raw.githubusercontent.com/bynjh007/bynjh007.github.io/master/images/DJI_0205.JPG)
+
+You can go [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
