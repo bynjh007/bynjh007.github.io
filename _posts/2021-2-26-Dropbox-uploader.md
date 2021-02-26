@@ -20,6 +20,7 @@ This is the way how I uploaded the large files (~40 files, ~200G) in the remote 
 ./dropbox_uploader.sh upload /path/raw/* /
 ```
  - At begining, I got an error to upload the large file (token error), I removed the previous configuration and reset new one
+ what is fuck
 
 6. As file size is large, it will be chunked into multiple pieces.
 
