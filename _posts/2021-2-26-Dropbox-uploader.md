@@ -12,9 +12,8 @@ This is the way how I uploaded the large files (~40 files, ~200G) in the remote 
 3. If this is your first time, you should set up a configuration (authentification, path, ...). You can do this when you first use the code './dropbox_uploader.sh'. This will make 'App/{folder name}' folder in your dropbox.
 
 4. (optional) If you want to unsynchronize the folder where you want to upload the files, you can use 'Selective Sync' function in 'Preference' menu from Desktop Dropbox.<br/>
-
- - Currently, the default folder 'App' is unsynchronized by this setting.
- - Also, I faced error when I initially set up the configuration, but it worked at some point without any change in the trials.<br/>
+- Currently, the default folder 'App' is unsynchronized by this setting.
+- Also, I faced error when I initially set up the configuration, but it worked at some point without any change in the trials.<br/>
 
 5. Then you can upload the files to the path. The data will be uploaded in the default path, 'App/{folder name}'.
 ```console
