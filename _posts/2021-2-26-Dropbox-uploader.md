@@ -35,7 +35,3 @@ Then, good luck!
 
 ![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG){: style="float: left"}
 from Nigardsbreen, Norway
-
-
-
-
