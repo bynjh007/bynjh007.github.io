@@ -16,7 +16,7 @@ This is the way how I uploaded the large files (~40 files, ~200G) in the remote 
 - Also, I faced error when I initially set up the configuration, but it worked at some point without any change in the trials.
 
 5. Then you can upload the files to the path. The data will be uploaded in the default path, 'App/{folder name}'.
-```java
+```console
 ./dropbox_uploader.sh upload /path/raw/* /
 ```
  - At begining, I got an error to upload the large file (token error), I removed the previous configuration and reset new one
