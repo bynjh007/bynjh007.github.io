@@ -12,6 +12,7 @@ This is the way how I uploaded the large files (~40 files, ~200G) in the remote 
 3. If this is your first time, you should set up a configuration (authentification, path, ...). You can do this when you first use the code './dropbox_uploader.sh'. This will make 'App/{folder name}' folder in your dropbox.
 
 4. (optional) If you want to unsynchronize the folder where you want to upload the files, you can use 'Selective Sync' function in 'Preference' menu from Desktop Dropbox.<br/>
+
 - Currently, the default folder 'App' is unsynchronized by this setting.
 - Also, I faced error when I initially set up the configuration, but it worked at some point without any change in the trials.<br/><br/>
 
@@ -22,9 +23,9 @@ This is the way how I uploaded the large files (~40 files, ~200G) in the remote 
  - At begining, I got an error to upload the large file (token error), I removed the previous configuration and reset new one.<br/><br/>
 
 
-6. As file size is large, it will be chunked into multiple pieces.
+6. As file size is large, it will be chunked into multiple pieces.<br/><br/>
 
-Then, good luck!
+Then, good luck!<br/><br/>
 
 ![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG){: style="float: right"}
 from Nigardsbreen, Norway
