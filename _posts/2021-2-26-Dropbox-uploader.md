@@ -6,7 +6,7 @@ title: Uploading files in Linux to DropBox account
 This is the way how I uploaded the large files (~40 files, ~200G) in the remote server (Linux) to my dropbox account.
 
 
-
+\
 1. You can use the codes in this [github repository](https://github.com/andreafabrizi/Dropbox-Uploader).
 
 2. Follow the instruction (git clone, setting permission of the file).
