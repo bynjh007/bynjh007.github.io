@@ -29,7 +29,7 @@ At begining, I got an error to upload the large file (token error), I removed th
 
 Then, good luck!
 
-![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG, description = "Norway")
+![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG)
 
 
 
