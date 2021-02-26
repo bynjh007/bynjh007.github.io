@@ -25,14 +25,13 @@ This will make App/{folder name} folder in your dropbox.
   - At begining, I got an error to upload the large file (token error), I removed the previous configuration and reset new one.
 
 
-6. As file size is large, it will be chunked into multiple pieces.\\
-
-
+6. As file size is large, it will be chunked into multiple pieces.
+\
+\
 Then, good luck!
-
-
-
-
+\
+\
+\
 ![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG){: style="float: left"}
 from Nigardsbreen, Norway
 
