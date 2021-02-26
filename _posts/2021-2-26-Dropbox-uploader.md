@@ -28,11 +28,9 @@ This will make App/{folder name} folder in your dropbox.
 6. As file size is large, it will be chunked into multiple pieces.
 
 
-
 Then, good luck!
-\
-\
-\
+
+
 ![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG){: style="float: left"}
 from Nigardsbreen, Norway
 
