@@ -21,9 +21,9 @@ This is the way how I uploaded the large files (~40 files, ~200G) in the remote 
 ```
  - At begining, I got an error to upload the large file (token error), I removed the previous configuration and reset new one.<br/><br/>
 
-6. As file size is large, it will be chunked into multiple pieces.<br/>
+6. As file size is large, it will be chunked into multiple pieces.<br/><br/>
 
-Then, good luck!<br/><br/>
+Then, good luck!<br/><br/><br/><br/>
 
 ![_config.yml]({{ site.baseurl }}/images/DJI_0205.JPG){: style="float: right"}
 from Nigardsbreen, Norway
