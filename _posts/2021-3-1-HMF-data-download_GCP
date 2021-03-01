@@ -19,5 +19,5 @@ gsutil -u hmf-download du -h gs://hmf-dr-205/
 
 # download the metadata, somatic data, and manifest (this is for RNA-seq)
 gsutil -u hmf-download cp gs://hmf-dr-205/* /DATA/path/
-
 ```
+
