@@ -21,3 +21,6 @@ gsutil -u hmf-download du -h gs://hmf-dr-205/
 gsutil -u hmf-download cp gs://hmf-dr-205/* /DATA/path/
 ```
 
+The detail conda environment can be found in the Turing server ('conda list' in the gcloud environment)
+
+
