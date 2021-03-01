@@ -1,4 +1,4 @@
-# This is the manual how I uploaded the sequencing data to ENA server
+## This is the manual how I uploaded the sequencing data to ENA server
 
 Problem: the default mode of ltfp (installed in conda environment) doesn't work from the institute server.  
 
